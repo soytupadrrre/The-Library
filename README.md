@@ -3,11 +3,17 @@
 ## AI
 
 [Whisper](https://github.com/openai/whisper): General-purpose speech recognition model
+
 [MinerU](https://github.com/opendatalab/MinerU): MinerU is a tool that converts PDFs into machine-readable formats
+
 [OpenHands](https://github.com/All-Hands-AI/OpenHands): Platform for software development agents powered by AI
+
 [LLM-Course](https://github.com/mlabonne/llm-course): LLM course
+
 [SAHI](https://github.com/obss/sahi): A lightweight vision library for performing large scale object detection & instance segmentation
+
 [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0): General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model
+
 [Ichigo](https://github.com/homebrewltd/ichigo): Local real-time voice AI
 
 ## Programming
