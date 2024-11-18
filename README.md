@@ -15,7 +15,7 @@
 [Github Cheat Sheet](https://github.com/luckypm/github-cheat-sheet): A collection of cool hidden and not so hidden features of Git and GitHub. <br>
 
 ### Desktop Development
-[CustomTkinter](https://github.com/TomSchimansky/CustomTkinter): CustomTkinter is a python UI-library based on Tkinter, which provides new, modern and fully customizable widgets. <br>
+[CustomTkinter](https://github.com/TomSchimansky/CustomTkinter): Python UI-library based on Tkinter, which provides new, modern and fully customizable widgets. <br>
 [Electron](https://github.com/electron/electron): The Electron framework lets you write cross-platform desktop applications using JavaScript, HTML and CSS. <br>
 
 ## Containers
