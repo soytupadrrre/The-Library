@@ -2,8 +2,7 @@
 
 ## AI
 
-[Whisper](https://github.com/openai/whisper): General-purpose speech recognition model
-
+[Whisper](https://github.com/openai/whisper): General-purpose speech recognition model <br>
 [MinerU](https://github.com/opendatalab/MinerU): MinerU is a tool that converts PDFs into machine-readable formats
 
 [OpenHands](https://github.com/All-Hands-AI/OpenHands): Platform for software development agents powered by AI
