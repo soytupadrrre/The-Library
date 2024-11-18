@@ -25,7 +25,7 @@
 [Homer](https://github.com/bastienwirtz/homer): A dead simple static HOMepage for your servER to keep your services on hand. <br>
 [Script-Server](https://github.com/bugy/script-server): Web UI for scripts. <br>
 [PlantUML Server](https://github.com/plantuml/plantuml-server): Web application to generate UML diagrams on-the-fly. <br>
-[Automatisch](https://github.com/automatisch/automatisch): Automatisch is a business automation tool that lets you connect different services to automate your business processes. <br>
+[Automatisch](https://github.com/automatisch/automatisch): Automation tool that lets you connect different services to automate your business processes. <br>
 [Portainer](https://hub.docker.com/r/portainer/portainer): Lightweight platform that effortlessly delivers containerized applications. <br>
 
 ## Robotics
