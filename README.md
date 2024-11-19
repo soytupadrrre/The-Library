@@ -42,6 +42,8 @@ Because learning has never been this easy. **The Library** turns the chaos of sc
 [PlantUML Server](https://github.com/plantuml/plantuml-server): Web application to generate UML diagrams on-the-fly. <br>
 [Automatisch](https://github.com/automatisch/automatisch): Automation tool that lets you connect different services to automate your business processes. <br>
 [Portainer](https://hub.docker.com/r/portainer/portainer): Lightweight platform that effortlessly delivers containerized applications. <br>
+[Keep](https://github.com/keephq/keep): Open-source alert management and AIOps platform. <br>
+[SigNoz](https://github.com/SigNoz/signoz): Open source Application Performance Monitoring (APM) & Observability tool. <br>
 
 ### 🤖 Robotics
 
