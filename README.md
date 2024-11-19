@@ -56,5 +56,3 @@ Because learning has never been this easy. **The Library** turns the chaos of sc
 # 👨🏻‍👨🏻‍👦🏻 Contributors
 [SoytuPadrrre](https://github.com/soytupadrrre/soytupadrrre) <br>
 [IgorGRC](https://github.com/Igorgrc)
-
-<img src="https://camo.githubusercontent.com/bae7d07d40504eac0aabd3371b2b9c396f9108f0a29468317c3e717647b07aef/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7a6f6f6d2e737667" alt="drawing" width="10"/>
