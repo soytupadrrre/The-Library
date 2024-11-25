@@ -27,6 +27,10 @@ Because learning has never been this easy. **The Library** turns the chaos of sc
 
 ### 👨🏽‍💻 Programming
 
+#### Python
+[Sourcedefender](https://pypi.org/project/sourcedefender/): Python code obfuscation using AES-256 encryption.
+
+#### Git
 [Github Cheat Sheet](https://github.com/luckypm/github-cheat-sheet): A collection of cool hidden and not so hidden features of Git and GitHub. <br>
 
 #### 🖥️ Desktop Development
