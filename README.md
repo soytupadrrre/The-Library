@@ -48,12 +48,14 @@ Because learning has never been this easy. **The Library** turns the chaos of sc
 [Portainer](https://hub.docker.com/r/portainer/portainer): Lightweight platform that effortlessly delivers containerized applications. <br>
 [Keep](https://github.com/keephq/keep): Open-source alert management and AIOps platform. <br>
 [SigNoz](https://github.com/SigNoz/signoz): Open source Application Performance Monitoring (APM) & Observability tool. <br>
+[LazyDocker](https://github.com/jesseduffield/lazydocker) A simple terminal UI for both docker and docker-compose, written in Go with the gocui library, and a good way to manage everything docker.
 
 ### 🤖 Robotics
 
 [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics): Python codes for robotics algorithm.
 
 ### 🛡️Cybersecurity
+[URLFINDER](https://github.com/projectdiscovery/urlfinder)  high-speed, passive URL discovery tool designed to simplify and accelerate web asset discovery, ideal for gather URLs without active scanning.
 
 ### 💭 Curiosity
 
