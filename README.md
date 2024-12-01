@@ -60,7 +60,3 @@ Because learning has never been this easy. **The Library** turns the chaos of sc
 ### 💭 Curiosity
 
 [SuperTinyIcons](https://github.com/edent/SuperTinyIcons): Minuscule SVG versions of your favourite logos. <br>
-
-# 👨🏻‍👨🏻‍👦🏻 Contributors
-[SoytuPadrrre](https://github.com/soytupadrrre/soytupadrrre) <br>
-[IgorGRC](https://github.com/Igorgrc)
