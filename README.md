@@ -17,13 +17,29 @@ Because learning has never been this easy. **The Library** turns the chaos of sc
 
 ### 🧠 AI
 
+#### Computer Vision
+[SAHI](https://github.com/obss/sahi): A lightweight vision library for performing large scale object detection & instance segmentation. <br>
+[Make-sense](https://github.com/SkalskiP/make-sense): A free-to-use online tool for labeling photos. <br>
+[AIMv2](https://huggingface.co/collections/apple/aimv2-6720fe1558d94c7805f7688c): A collection of AIMv2 vision encoders that supports a number of resolutions, native resolution, and a distilled checkpoint. <br>
+[Samurai](https://github.com/yangchris11/samurai): Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory. <br>
+[Detectron2](https://github.com/facebookresearch/detectron2): Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms. <br>
+[Mediamtx](https://github.com/bluenviron/mediamtx): A ready-to-use and zero-dependency real-time media server and media proxy that allows to publish, read, proxy, record and playback video and audio streams. <br>
+[Supervision](https://github.com/roboflow/supervision): Reusable computer vision tools. <br>
+[LLaVA-CoT](https://github.com/PKU-YuanGroup/LLaVA-CoT): Let Vision Language Models Reason Step-by-Step. <br>
+
+#### LLM
 [Whisper](https://github.com/openai/whisper): General-purpose speech recognition model. <br>
-[MinerU](https://github.com/opendatalab/MinerU): MinerU is a tool that converts PDFs into machine-readable formats. <br>
 [OpenHands](https://github.com/All-Hands-AI/OpenHands): Platform for software development agents powered by AI. <br>
 [LLM-Course](https://github.com/mlabonne/llm-course): LLM course. <br>
-[SAHI](https://github.com/obss/sahi): A lightweight vision library for performing large scale object detection & instance segmentation. <br>
-[GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0): General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model. <br>
 [Ichigo](https://github.com/homebrewltd/ichigo): Local real-time voice AI. <br>
+[TinyTroupe](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights.. <br>
+[Anychat](https://huggingface.co/spaces/akhaliq/anychat): LLM model zoo chatbot. <br>
+[Multi-agent-orchestator](https://github.com/awslabs/multi-agent-orchestrator): Flexible and powerful framework for managing multiple AI agents and handling complex conversations.. <br>
+
+#### OCR
+[MinerU](https://github.com/opendatalab/MinerU): MinerU is a tool that converts PDFs into machine-readable formats. <br>
+[GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0): General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model. <br>
+[MGP-STR](https://huggingface.co/alibaba-damo/mgp-str-base): MGP-STR base-sized model is trained on MJSynth and SynthText. <br>
 
 ### 👨🏽‍💻 Programming
 
