@@ -72,6 +72,7 @@ Because learning has never been this easy. **The Library** turns the chaos of sc
 
 ### 🛡️Cybersecurity
 [URLFINDER](https://github.com/projectdiscovery/urlfinder)  high-speed, passive URL discovery tool designed to simplify and accelerate web asset discovery, ideal for gather URLs without active scanning.
+[SpiderFoot](https://github.com/smicallef/spiderfoot) OSINT Automation Tool
 
 ### 💭 Curiosity
 
