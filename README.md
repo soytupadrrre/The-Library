@@ -32,9 +32,9 @@ Because learning has never been this easy. **The Library** turns the chaos of sc
 [OpenHands](https://github.com/All-Hands-AI/OpenHands): Platform for software development agents powered by AI. <br>
 [LLM-Course](https://github.com/mlabonne/llm-course): LLM course. <br>
 [Ichigo](https://github.com/homebrewltd/ichigo): Local real-time voice AI. <br>
-[TinyTroupe](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights.. <br>
+[TinyTroupe](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights. <br>
 [Anychat](https://huggingface.co/spaces/akhaliq/anychat): LLM model zoo chatbot. <br>
-[Multi-agent-orchestator](https://github.com/awslabs/multi-agent-orchestrator): Flexible and powerful framework for managing multiple AI agents and handling complex conversations.. <br>
+[Multi-agent-orchestator](https://github.com/awslabs/multi-agent-orchestrator): Flexible and powerful framework for managing multiple AI agents and handling complex conversations. <br>
 
 #### OCR
 [MinerU](https://github.com/opendatalab/MinerU): MinerU is a tool that converts PDFs into machine-readable formats. <br>
@@ -44,7 +44,7 @@ Because learning has never been this easy. **The Library** turns the chaos of sc
 ### 👨🏽‍💻 Programming
 
 #### 🐍 Python
-[Sourcedefender](https://pypi.org/project/sourcedefender/): Python code obfuscation using AES-256 encryption.
+[Sourcedefender](https://pypi.org/project/sourcedefender/): Python code obfuscation using AES-256 encryption.<br>
 
 #### 🛠️ Git
 [Github Cheat Sheet](https://github.com/luckypm/github-cheat-sheet): A collection of cool hidden and not so hidden features of Git and GitHub. <br>
@@ -64,15 +64,15 @@ Because learning has never been this easy. **The Library** turns the chaos of sc
 [Portainer](https://hub.docker.com/r/portainer/portainer): Lightweight platform that effortlessly delivers containerized applications. <br>
 [Keep](https://github.com/keephq/keep): Open-source alert management and AIOps platform. <br>
 [SigNoz](https://github.com/SigNoz/signoz): Open source Application Performance Monitoring (APM) & Observability tool. <br>
-[LazyDocker](https://github.com/jesseduffield/lazydocker) A simple terminal UI for both docker and docker-compose, written in Go with the gocui library, and a good way to manage everything docker.
+[LazyDocker](https://github.com/jesseduffield/lazydocker) A simple terminal UI for both docker and docker-compose, written in Go with the gocui library, and a good way to manage everything docker. <br>
 
 ### 🤖 Robotics
 
-[PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics): Python codes for robotics algorithm.
+[PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics): Python codes for robotics algorithm. <br>
 
 ### 🛡️Cybersecurity
-[URLFINDER](https://github.com/projectdiscovery/urlfinder)  high-speed, passive URL discovery tool designed to simplify and accelerate web asset discovery, ideal for gather URLs without active scanning.
-[SpiderFoot](https://github.com/smicallef/spiderfoot) OSINT Automation Tool
+[URLFINDER](https://github.com/projectdiscovery/urlfinder)  high-speed, passive URL discovery tool designed to simplify and accelerate web asset discovery, ideal for gather URLs without active scanning.<br>
+[SpiderFoot](https://github.com/smicallef/spiderfoot) OSINT Automation Tool. <br>
 
 ### 💭 Curiosity
 
