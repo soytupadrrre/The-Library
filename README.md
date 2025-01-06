@@ -41,6 +41,11 @@ Because learning has never been this easy. **The Library** turns the chaos of sc
 [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0): General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model. <br>
 [MGP-STR](https://huggingface.co/alibaba-damo/mgp-str-base): MGP-STR base-sized model is trained on MJSynth and SynthText. <br>
 
+### Code Writters
+[Github Copilot](https://github.com/features/copilot): The AI editor for everyone
+[Sourcegraph Cody](https://sourcegraph.com/): Helps developers search, understand, and write code in complex codebases using code search and context-aware AI
+[Blackbox AI](https://www.blackbox.ai/): AI Model for Code
+
 ### 👨🏽‍💻 Programming
 
 #### 🐍 Python
