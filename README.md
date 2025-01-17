@@ -79,6 +79,9 @@ Because learning has never been this easy. **The Library** turns the chaos of sc
 [URLFINDER](https://github.com/projectdiscovery/urlfinder)  high-speed, passive URL discovery tool designed to simplify and accelerate web asset discovery, ideal for gather URLs without active scanning.<br>
 [SpiderFoot](https://github.com/smicallef/spiderfoot) OSINT Automation Tool. <br>
 
+#### 🧠 Theat Intel
+[TweetFeed](https://tweetfeed.live/): IOCs reportados en Twitter
+
 ### 💭 Curiosity
 
 [SuperTinyIcons](https://github.com/edent/SuperTinyIcons): Minuscule SVG versions of your favourite logos. <br>
