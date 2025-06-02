@@ -35,6 +35,8 @@ Because learning has never been this easy. **The Library** turns the chaos of sc
 [TinyTroupe](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights. <br>
 [Anychat](https://huggingface.co/spaces/akhaliq/anychat): LLM model zoo chatbot. <br>
 [Multi-agent-orchestator](https://github.com/awslabs/multi-agent-orchestrator): Flexible and powerful framework for managing multiple AI agents and handling complex conversations. <br>
+[Model Context Protocol](https://modelcontextprotocol.io/introduction): MCP is an open protocol that standardizes how applications provide context to LLMs. Think of MCP like a USB-C port for AI applications<br>
+[https://github.com/microsoft/NLWeb](https://github.com/microsoft/NLWeb): Building conversational interfaces for websites is hard. NLWeb seeks to make it easy for websites to do this. And since NLWeb natively speaks MCP, the same natural language APIs can be used both by humans and agents. <br>
 
 #### OCR
 [MinerU](https://github.com/opendatalab/MinerU): MinerU is a tool that converts PDFs into machine-readable formats. <br>
